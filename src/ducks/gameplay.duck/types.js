@@ -1,0 +1,7 @@
+export const GAMEPLAY_START = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_START'
+export const GAMEPLAY_INCREASE_SCORE = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_INCREASE_SCORE'
+export const GAMEPLAY_NEXT_SONG = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_NEXT_SONG'
+export const GAMEPLAY_DECREASE_LIVES = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_DECREASE_LIVES'
+export const GAMEPLAY_STORE_ANSWER = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_STORE_ANSWER'
+export const GAMEPLAY_LOAD_ANSWERS = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_LOAD_ANSWERS'
+export const GAMEPLAY_MOD_SETTINGS = 'cooksys/whos-who/ducks/gameplay/GAMEPLAY_MOD_SETTINGS'
